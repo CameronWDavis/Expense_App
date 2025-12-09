@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  import 'package:uuid/uuid.dart';
+=======
+import 'package:uuid/uuid.dart';
+>>>>>>> 8307adb4cfc730d2d7327e9942181ee0c52ff46d
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
